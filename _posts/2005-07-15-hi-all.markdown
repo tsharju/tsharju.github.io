@@ -1,0 +1,17 @@
+---
+author: teemuharjublog
+comments: true
+date: 2005-07-15 09:10:00+00:00
+layout: post
+slug: hi-all
+title: Hi all!
+wordpress_id: 29
+categories:
+- Personal
+---
+
+This is me testing my blog using my 6630. Have a nice summer. :)
+
+
+
+[![](http://www.teemuharju.net/wp-photos/thumb.20050715-121000-1.jpg)](http://www.teemuharju.net/wp-photos/20050715-121000-1.jpg)

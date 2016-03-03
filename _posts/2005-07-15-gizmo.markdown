@@ -1,0 +1,17 @@
+---
+author: teemuharjublog
+comments: true
+date: 2005-07-15 10:23:54+00:00
+layout: post
+slug: gizmo
+title: Gizmo
+wordpress_id: 32
+categories:
+- VoIP
+---
+
+I just had to write about this application. I mean the Gizmo from [Gizmoproject](http://www.gizmoproject.com) . People are talking about this beeing the next [Skype](http://www.skype.com) killer. Quite frankly, I couldn’t care less. Why some application should "kill" Skype. I have nothing against Skype . I mean nothing except that that they don’t use open standards and seem to be quite slow in developing their system. Gizmo on the other hand uses open standards ([SIP](http://www.cs.columbia.edu/sip/)) and the same audio codecs that Skype has from [Global IP Sound](http://www.globalipsound.com). Also they have quite interesting new features like “call subject” where the receiver can see the subject of the call before answering it. Also it has the call recording feature that Skype is lacking. And last but not least there is also a realtime call quality indicator showing network issues that can affect call quality.
+
+Anyway, to be honest I haven’t used these Skype/Gizmo clients that much yet, but I really considering to start using Gizmo regularry. Check it out...
+
+![](http://www.teemuharju.net/images/gizmo-sm-ear.jpg)
