@@ -16,6 +16,7 @@ twitter_username: tsharju
 github_username:  tsharju
 permalink: /:year/:month/:day/:title/
 encoding: utf-8
+timezone: Europe/Helsinki
 
 # Build settings
 markdown: kramdown
