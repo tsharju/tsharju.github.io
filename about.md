@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello. My name is _Teemu Harju_ and I'm currently working as a _Senior
+Software Engineer_ at [Futurefly Ltd](http://www.futurefly.net).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I love writing software and my absolute favourite languages are
+Erlang, Elixir, Python and Swift. See my
+[GitHub page](https://github.com/tsharju) for more info about the
+projects I've worked on.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can also find my professional profile and resume from
+[LinkedIn](https://fi.linkedin.com/in/teemuharju).
