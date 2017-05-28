@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello. My name is _Teemu Harju_ and I'm currently working as a _Senior
-Software Engineer_ at [Futurefly Ltd](http://www.futurefly.net).
+Hello. My name is _Teemu Harju_ and I'm _CTO and Co-founder_ at [Shipyard Games](http://shipyard.games).
 
 I love writing software and my absolute favourite languages are
 Erlang, Elixir, Python and Swift. See my
